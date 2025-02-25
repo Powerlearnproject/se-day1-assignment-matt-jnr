@@ -8,7 +8,7 @@ Software Engineering Day1 Assignment
 Software engineering is the process that involves designing, creating and maintaining software solutions to digital problems by writing code that serves as instructions for computers. It involves creation of websites and applications (programs) thatare useful in the fulfilment of day-to-day tasks in the modern digital world.
 
 Software engineering is important in the technology industry in many different ways, among them:
-1. Making life easier: One of the key principles of software engineering is simplicity. This means that its primary objective is to make interaction with technology devices easier. This makes life easier as tasks can be completed faster and in a more simple way.
+1. Making work easier: One of the key principles of software engineering is simplicity. This means that its primary objective is to make interaction with technology devices easier. This makes life easier as tasks can be completed faster and in a more simple way.
 2. 
 
 2. Identify and describe at least three key milestones in the evolution of software engineering.
@@ -24,7 +24,18 @@ Implementation: Involves deployment of the final product after testing and fixin
 Maintenance: Involves monitoring the software for issues, performing updates, fixing bugs and making enhancements based on user feedback.
 
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+  Waterfall method
+This method follows a linear and sequential approach to software development; each phase must be completed before moving to the next.
+This method is rigid and requires thorough planning and clear requirements from the start.
+It is suitable for projects where requirements are unlikely to change for a long time, such as government projects.
+  Agile method.
+This method follows a more flexible, iterative and incremental approach to software development.
+In this method, requirements can evolve based on feedback and changing needs throughout the project, plans can be adjusted based on feedback from previous iterations and it emphasises on flexibility, customer feedback and rapid delivery of functionla components.
+It is suitable for projects that are likely to change frequently or are not well defined from the start, such as startup app development.
 
+The differences between the two include:
+Flexibility: Agile is more flexible, Waterfall is rigid and sticks to the pre-defined plan.
+Risk Management: Agile, being flexible, is less risky since changes can be made while Waterfall is assumes risks will be managed throughout the upfront planning.
 
 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
   Software Developer
@@ -41,7 +52,15 @@ Allocating resources and managing budgets to ensure the team has the necessary t
 Tracking project progress, monitoring performance and providing regular updates and reports to stakeholders.
 
 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs:
+An IDE is a software application that provides facilities to computer programmers for software development, including source code editors, debuggers and build automation tools.
+They are important in that they integrate various tools and features in one place, thereby boosting productivity since developers can write, test and debugg their code without the need to switch between different tools.
+Examples of IDEs include Visual Studio Code and CodeBlocks.
+VCSs
+A VCS is a system that tracks changes to files and directories over time, allowing multiple developers to collaborate on a project, keeping a history of changes and managing different versions of the codebase.
+They are important in that they keep a history of all the versions of the code ever committed, hence it is possible to keep track of the progress and process of making the project, hence easy to identify where the problem is.
+They also allow for collaboration of multiple developers to work on the same project simultaneously without overwriting each other's changes.
+Examples of VCSs include Git and Subversion.
 
 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
@@ -71,4 +90,3 @@ Importance: It improves response quality of AI; users can guide AI models to gen
 Vague prompt:'Tell me about cars'
 Improved prompt:'Tell me about personal vehicles within a budget of ksh 1,000,000 that would be economical in Kenya'
 The improved prompt is more effective because it is more specific to the needs of the user, compared to the vague prompt; the vague prompt will give you any information about cars, what they are, probably their origin, etc while the improved prompt will give you information tailored to what you really want to know concerning cars
-
